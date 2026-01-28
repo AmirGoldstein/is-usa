@@ -23,7 +23,7 @@ const Four = () => {
         }
       `}</style>
 
-      <div className="page-container w-full md:w-[210mm] h-auto md:h-[297mm] mx-auto bg-[#f5f3ef] md:shadow-2xl overflow-hidden relative md:border border-[#d0c9bc]">
+      <div className="page-container w-full md:w-[210mm] h-auto md:h-auto mx-auto bg-[#f5f3ef] md:shadow-2xl overflow-hidden relative md:border border-[#d0c9bc]">
         
         {/* Header Section */}
         <header className="relative bg-gradient-to-br from-[#1a2e4a] to-[#2d4a6f] text-white py-4 md:py-6 px-4 md:px-10 overflow-hidden">
@@ -49,7 +49,7 @@ const Four = () => {
         {/* Introduction Section */}
         <section className="py-3 md:py-4 px-4 md:px-10 bg-white text-[#2c3e50] border-t-[3px] border-[#d4a855]">
           <p className="m-0 text-[11pt] md:text-[12pt] leading-relaxed" style={{ fontFamily: "'Source Serif 4', serif" }}>
-            Across US campuses and throughout New York City, antisemitism has risen sharply. Many Jewish students feel isolated, misrepresented, or pressured into silence. As I begin my MBA at NYU, I am stepping into this moment to bring an authentic Israeli voice that supports Jewish life, builds understanding, and counters misinformation with dignity and clarity.
+            Across many US campuses and in New York City, <strong>Jewish students</strong> are facing <strong>increasing hostility</strong> and pressure to remain silent. As I begin my <strong>MBA at NYU</strong>, I am entering this environment with a clear purpose: to be present, to support Jewish life, and to contribute <strong>my Israeli voice</strong>, grounded in <strong>responsibility, clarity, and respect</strong>.
           </p>
         </section>
 
@@ -77,14 +77,14 @@ const Four = () => {
               {/* Paragraph */}
               <div className="flex-1">
                 <p className="m-0 text-[11pt] md:text-[12pt] leading-relaxed text-[#2c3e50]" style={{ fontFamily: "'Source Serif 4', serif" }}>
-                  I serve as a Company Commander in the IDF special forces reserves, with over 400 days of active reserve duty since October 7. I have led sensitive operations with care and responsibility, and was personally recognized by senior commanders for my leadership. I hold a B.Sc. in Computer Science (Sigma Cum Laude) and co-founded a veterans association supporting soldiers returning to civilian life.
+                  My name is <strong>Amir</strong>. I serve as a <strong>Company Commander</strong> in the <strong>IDF special forces reserves</strong>, with <strong>over 400 days of active reserve duty</strong> since October 7. I have led sensitive operations and made <strong>high-stakes decisions</strong> with care and responsibility, and was recognized by senior commanders for my leadership. Beyond my reserve service, I hold a <strong>B.Sc. in Computer Science (Sigma Cum Laude)</strong> and <strong>co-founded a veterans association</strong> supporting soldiers returning to civilian life.
                 </p>
               </div>
             </div>
             
             {/* Caption below paragraph */}
             <p className="text-[8pt] md:text-[9pt] text-[#6b7280] italic mb-4 md:mb-5" style={{ fontFamily: "'Source Serif 4', serif" }}>
-              For personal security reasons, my name is not shown in this campaign. For questions, please contact me at <a href="mailto:app.ctrlshift@gmail.com" className="text-[#d4a855] hover:underline">app.ctrlshift@gmail.com</a>.
+              For security reasons, only limited personal details are shared. For questions, please contact <strong><a href="mailto:info@illeadershipfoundation.com" className="text-[#d4a855] hover:underline">info@illeadershipfoundation.com</a></strong>.
             </p>
 
             {/* My Mission and Why Support - side by side */}
@@ -96,19 +96,23 @@ const Four = () => {
                 </h3>
                 <div className="space-y-2 md:space-y-2.5 text-[11pt] md:text-[12pt] leading-relaxed" style={{ fontFamily: "'Source Serif 4', serif" }}>
                   <p className="m-0 text-[#2c3e50]">
-                    I want to stand with the Jewish community and students of New York City as they confront rising antisemitism and growing hostility.
+                    I want to <strong>stand with the Jewish community</strong> on campus and across New York City during a challenging moment.
                   </p>
                   <p className="m-0 font-semibold text-[#1a2e4a] relative pl-6">
                     <span className="absolute left-0 top-0 text-[#d4a855] text-[12pt]">★</span>
-                    My aim is not to argue, but to open dialogue.
+                    <strong>Active participation</strong> in Jewish campus and New York City initiatives
                   </p>
                   <p className="m-0 font-semibold text-[#1a2e4a] relative pl-6">
                     <span className="absolute left-0 top-0 text-[#d4a855] text-[12pt]">★</span>
-                    Not to escalate, but to create safety, trust, and connection.
+                    <strong>Engagement</strong> in dialogues, conversations, and events
                   </p>
                   <p className="m-0 font-semibold text-[#1a2e4a] relative pl-6">
                     <span className="absolute left-0 top-0 text-[#d4a855] text-[12pt]">★</span>
-                    I aim to represent Israel and the Jewish people with responsibility, humanity, and respect.
+                    <strong>Sharing my personal story</strong> as an Israeli and IDF reserve company commander
+                  </p>
+                  <p className="m-0 font-semibold text-[#1a2e4a] relative pl-6">
+                    <span className="absolute left-0 top-0 text-[#d4a855] text-[12pt]">★</span>
+                    <strong>Supporting Jewish students'</strong> sense of belonging and confidence
                   </p>
                 </div>
               </div>
@@ -124,13 +128,10 @@ const Four = () => {
                   WHY YOUR SUPPORT MATTERS
                 </h3>
                 <p className="m-0 mb-2 md:mb-2.5 text-[11pt] md:text-[12pt] leading-relaxed text-[#2c3e50]" style={{ fontFamily: "'Source Serif 4', serif" }}>
-                  Studying in New York City while continuing reserve duty presents a significant academic challenge. I am seeking tuition-directed scholarship support to enable me to focus fully on my MBA studies.
+                  Studying in New York City while continuing reserve duty presents a significant academic and personal challenge. I am <strong>seeking tuition-directed scholarship support</strong> to help cover the cost of my <strong>MBA program at NYU</strong>, allowing me to focus fully on my studies and campus engagement.
                 </p>
-                <p className="m-0 mb-2 md:mb-2.5 text-[11pt] md:text-[12pt] leading-relaxed text-[#2c3e50]" style={{ fontFamily: "'Source Serif 4', serif" }}>
-                  This support allows me to bring an authentic Israeli voice into conversations where understanding and clarity are urgently needed.
-                </p>
-                <p className="m-0 text-[11pt] md:text-[12pt] leading-relaxed font-semibold text-[#2c3e50]" style={{ fontFamily: "'Source Serif 4', serif" }}>
-                  This is a partnership grounded in shared values and shared responsibility.
+                <p className="m-0 text-[11pt] md:text-[12pt] leading-relaxed text-[#2c3e50]" style={{ fontFamily: "'Source Serif 4', serif" }}>
+                  This support enables me to be present, active, and effective in strengthening Jewish life and representing an authentic Israeli perspective where understanding and clarity are urgently needed.
                 </p>
               </div>
             </div>
@@ -140,7 +141,7 @@ const Four = () => {
         {/* Important Note Section */}
         <section className="py-3 md:py-4 px-4 md:px-10 bg-[#f8f6f2] text-[#2c3e50] border-t-[3px] border-[#d4a855]">
           <p className="m-0 text-[9pt] md:text-[10pt] leading-relaxed italic" style={{ fontFamily: "'Source Serif 4', serif" }}>
-            <strong>Important note:</strong> Funds raised through this campaign are not personal income and will be used solely for tuition payments made directly to the university. No funds will be used for housing, stipends, or personal expenses.
+            <strong>Important note:</strong> Funds raised through this campaign are transferred via <strong><a href="https://www.illeadershipfoundation.com/ourstory" target="_blank" rel="noopener noreferrer" className="text-[#2c3e50] hover:text-[#d4a855] underline">The Israel Leadership Foundation</a></strong> and applied <strong>directly to tuition payments</strong> made to the university. Contributions are not personal income and are not used for housing, stipends, or personal expenses.
           </p>
         </section>
 
